@@ -1,0 +1,7 @@
+C:\Users\willjoh\AppData\Local\Temporary Projects\DataGridManager\bin\Debug\DataGridManager.exe
+C:\Users\willjoh\AppData\Local\Temporary Projects\DataGridManager\bin\Debug\DataGridManager.pdb
+C:\Users\willjoh\AppData\Local\Temporary Projects\DataGridManager\obj\x86\Debug\DataGridManager.Form1.resources
+C:\Users\willjoh\AppData\Local\Temporary Projects\DataGridManager\obj\x86\Debug\DataGridManager.Properties.Resources.resources
+C:\Users\willjoh\AppData\Local\Temporary Projects\DataGridManager\obj\x86\Debug\DataGridManager.csproj.GenerateResource.Cache
+C:\Users\willjoh\AppData\Local\Temporary Projects\DataGridManager\obj\x86\Debug\DataGridManager.exe
+C:\Users\willjoh\AppData\Local\Temporary Projects\DataGridManager\obj\x86\Debug\DataGridManager.pdb
